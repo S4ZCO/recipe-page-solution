@@ -76,7 +76,6 @@ body {
   background-color: var(--clr-preparation-background);
   padding: 1.5rem;
   border-radius: 0.8rem;
-  margin-bottom: 2rem;
 }
 
 .recipe__prep-title {
