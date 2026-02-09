@@ -63,6 +63,7 @@ body {
   color: var(--clr-recipe-name);
   font-family: var(--font-family-heading);
   font-size: var(--fs-title);
+  font-weight: var(--fw-bold);
   line-height: 1;
   margin-bottom: 1.5rem;
 }
